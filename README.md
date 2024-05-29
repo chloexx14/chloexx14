@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @chloexx14
+- 👀 I want to be a web developer 
+- 🌱 I’m currently learning on full stack development
